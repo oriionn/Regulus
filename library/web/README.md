@@ -30,7 +30,7 @@ To encode a text, use the `encode(text)` function, here is an example:
 ````
 
 ### Decoding
-To encode a text, use the `encode(text)` function, here is an example:
+To decode a text, use the `decode(text)` function, here is an example:
 ````html
 <!doctype html>
 <html lang="en">
